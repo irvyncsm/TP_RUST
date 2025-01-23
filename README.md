@@ -13,6 +13,14 @@ Ce projet a pour objectif de manipuler des images en utilisant la bibliothèque 
    cargo build
    ```
 
+## Lancer l'application
+
+Compiler et exécuter l'application avec :
+
+```bash
+cargo run
+```
+
 ## Questions du TP - Partie 1
 
 ### Question 1
